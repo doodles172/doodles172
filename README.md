@@ -2,7 +2,8 @@
 
 Designer & Full Stack Developer
 -------------------------------
-I create many different types of Opensource projects that help others! I work on many different types of projects.
+I create many different types of projects that help others!
+Most of the work I do is in private repositories.
 
 *   🌍  I'm based in The Netherlands
 *   💼  [@Kitzal](https://github.com/kitzal)
