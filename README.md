@@ -5,7 +5,7 @@ Designer & Full Stack Developer
 I create many different types of projects that help others!
 Most of the work I do is in private repositories.
 
-*   🌍  I'm based in The Netherlands
+*   📍  The Netherlands
 *   💼  [@Kitzal](https://github.com/kitzal)
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/UnbraveChimp/UnbraveChimp/snake-output/snake.svg" alt="Snake animation" />
